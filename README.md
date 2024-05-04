@@ -1,5 +1,5 @@
 # Global Crime Report 2021
-##Global Crime Analysis with Power BI
+## Global Crime Analysis with Power BI
 
 This repository showcases an in-depth analysis of global crime trends using Power BI. The project leverages a dataset sourced from Kaggle and meticulously cleaned for optimal visualization. The data is organized into three key tables:
 
